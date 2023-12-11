@@ -289,6 +289,10 @@ footer{
 .contact-links:visited{
     color:#687faf;
   }
+ span{
+        background-color: #7C93C3;
+        color: #EEF5FF;
+    }
 @media (min-width: 319px) and (max-width: 480px){
     .flex-box{
         display: block;
@@ -326,10 +330,7 @@ footer{
         padding-top: 70px;
         padding-right: 0;
     }
-    span{
-        background-color: #7C93C3;
-        color: #EEF5FF;
-    }
+   
     .img-cat{
         /* padding-top: 70px; */
         position: absolute;
