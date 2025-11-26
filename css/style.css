@@ -365,3 +365,24 @@ footer{
         margin: 5px;
     }
 }
+
+.resume-button {
+  padding: 10px 25px;
+  margin: 20px;
+  font-family: 'Kanit', sans-serif;
+  font-size: x-large;
+  background-color: #7C93C3;
+  border: 1px solid #7C93C3;
+  color: #ffffff;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.resume-button:hover {
+  background-color: white;
+  color: #7C93C3;
+  border: 1px solid #7C93C3;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
